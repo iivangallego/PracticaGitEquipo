@@ -1,1 +1,2 @@
 este archivo pertenece a la rama de DOCUMENTACION de Iker Pescador e Iván Gallego
+modificación realizada por Iker Pescador para crear conflicto
